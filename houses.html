@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>A Song of Ice & Fire</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script
+      src="https://use.fontawesome.com/releases/v6.3.0/js/all.js"
+      crossorigin="anonymous"></script>
+    <!-- Simple line icons-->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css"
+      rel="stylesheet" />
+    <!-- Google fonts-->
+    <link
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
+      rel="stylesheet"
+      type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+  </head>
+  <body class="custom-bg">
+    <!-- Navigation-->
+    <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+    <nav id="sidebar-wrapper">
+      <ul class="sidebar-nav">
+        <li class="sidebar-brand"></li>
+        <li class="sidebar-nav-item"><a href="/index.html">Home</a></li>
+        <li class="sidebar-nav-item"><a href="/about.html">About</a></li>
+        <li class="sidebar-nav-item">
+          <a href="/characters.html">Main Characters</a>
+        </li>
+        <li class="sidebar-nav-item">
+          <a href="/houses.html">Great Houses</a>
+        </li>
+      </ul>
+    </nav>
+
+    <!-- Houses Section -->
+    <section class="content-section" id="housesSection">
+      <div class="container px-4 px-lg-5">
+        <div class="content-section-heading text-center">
+          <h2 class="mb-11">Great Houses of The Seven Kingdoms</h2>
+        </div>
+
+        <div class="row gx-0" id="housesGrid">
+          <!-- House Cards Go Here -->
+        </div>
+      </div>
+    </section>
+
+    <!-- House Detail Modal -->
+    <div
+      class="modal fade"
+      id="houseModal"
+      tabindex="-1"
+      aria-labelledby="houseModalLabel"
+      aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="houseModalLabel">House Name</h5>
+          </div>
+          <div class="modal-body modal-body-centered">
+            <!-- Dynamic house details will be inserted here -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("houses.json")
+          .then((response) => response.json())
+          .then((data) => {
+            const housesGrid = document.getElementById("housesGrid");
+            data.houses.forEach((house) => {
+              const colDiv = document.createElement("div");
+              colDiv.className = "col-lg-6";
+              colDiv.innerHTML = `
+          <div class="houses-item" style="cursor: pointer;">
+            <div class="caption">
+              <div class="caption-content">
+                <div class="h4">${house.name}</div>
+                <p class="mb-0">${house.words}</p>
+              </div>
+            </div>
+            <img class="img-fluid" src="${house.image}" alt="${house.name}" />
+          </div>
+        `;
+
+              // Attach click event listener to show house details modal
+
+              const houseItem = colDiv.querySelector(".houses-item");
+              houseItem.addEventListener("click", () => {
+                console.log("House card clicked:", house.name);
+
+                const modalTitle = document.getElementById("houseModalLabel");
+
+                const modalBody = document
+                  .getElementById("houseModal")
+                  .querySelector(".modal-body");
+                modalTitle.textContent = house.name;
+
+                modalBody.innerHTML = `
+            <img src="${house.sigil}" alt="${
+                  house.name
+                }" class="img-fluid mb-3" />
+            <p><strong>Coat of Arms:</strong> ${house.coatOfArms}</p>
+            <p><strong>Words:</strong> ${house.words}</p>
+
+            <p><strong>Seat:</strong> ${house.seat}</p>
+            <p><strong>Region:</strong> ${house.region}</p>
+            <p><strong>Overlords:</strong> ${house.overlords}</p>
+            <p><strong>Vassals:</strong> ${house.vassals.join(", ")}</p>
+            <p><strong>Religion:</strong> ${house.religion}</p>
+            <p><strong>Founded:</strong> ${house.founded}</p>
+            
+          `;
+
+                // Use jQuery to show the modal
+                $("#houseModal").modal("show");
+              });
+
+              housesGrid.appendChild(colDiv);
+            });
+          })
+          .catch((error) => console.error("Error loading house data:", error));
+      });
+    </script>
+    <!-- Footer-->
+    <footer class="footer text-center">
+      <div class="container px-4 px-lg-5 text-center">
+        <div class="container px-4 px-lg-5">
+          <p class="text-muted small mb-0">
+            Copyright &copy; A song of Ice & Fire <span id="currentYear"></span>
+          </p>
+        </div>
+      </div>
+    </footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+    <script>
+      document.getElementById("currentYear").textContent =
+        new Date().getFullYear(); // Update the current year automatically
+    </script>
+
+  </body>
+</html>

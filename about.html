@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>A Song of Ice & Fire</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script
+      src="https://use.fontawesome.com/releases/v6.3.0/js/all.js"
+      crossorigin="anonymous"></script>
+    <!-- Simple line icons-->
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css"
+      rel="stylesheet" />
+    <!-- Google fonts-->
+    <link
+      href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic"
+      rel="stylesheet"
+      type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+  </head>
+
+  <body  class="custom-bg">
+
+    <!-- Navigation-->
+    <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+    <nav id="sidebar-wrapper">
+      <ul class="sidebar-nav">
+        <li class="sidebar-brand"></li>
+        <li class="sidebar-nav-item"><a href="/index.html">Home</a></li>
+        <li class="sidebar-nav-item"><a href="/about.html">About</a></li>
+        <li class="sidebar-nav-item">
+          <a href="/characters.html">Main Characters</a>
+        </li>
+        <li class="sidebar-nav-item"><a href="/houses.html">Main Houses</a></li>
+      </ul>
+    </nav>
+
+    <!-- About us -->
+    <section class="content-section bg-light" id="about">
+      <div class="container px-4 px-lg-5 text-center">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+          <div class="col-lg-10">
+            <h2>
+              About Us
+            </h2>
+            <p class="lead mb-55">
+              Welcome to our fan-made Game of Thrones website. Created out of admiration for the epic fantasy series, we aim to provide a platform for fellow fans to explore the complex world of Westeros. Dive into the lore, explore the houses, and join us in celebrating the phenomenon that is Game of Thrones.
+            </p>
+          </div>
+        </div>
+      </div>
+
+ <!-- Subscribe form -->
+<div class="content-section-heading" id="contact">
+  <h4 class="text-center">Join Our Newsletter</h4>
+  <p class="text-center">Subscribe to receive monthly newsletter</p>
+  <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+    <div class="col-lg-6">
+      <form id="contact-form">
+        <div class="form-floating mb-3">
+          <input class="form-control" id="email" type="email" placeholder="Enter your email..." required />
+          <label for="email">Enter your email...</label>
+          <div class="invalid-feedback">An email is required.</div>
+          <div class="invalid-feedback">Email is not valid.</div>
+        </div>
+        <div class="form-floating mb-3">
+          <input class="form-control" id="name" type="text" placeholder="Enter your name..." required />
+          <label for="name">Enter your name...</label>
+          <div class="invalid-feedback">A name is required.</div>
+        </div>
+        <button class="btn btn-primary btn-xl" id="submitButton" type="submit">Subscribe</button>
+      </form>
+    </div>
+  </div>
+</div>
+<script>
+  document.getElementById('contact-form').addEventListener('submit', function(event) {
+    event.preventDefault();
+    var email = document.getElementById('email').value;
+    var name = document.getElementById('name').value;
+    alert('Thank you for subscribing, ' + name + '! We will send updates to ' + email + '.');
+  });
+</script>
+
+
+    <!-- Footer-->
+        <footer class="footer text-center">
+            <div class="container px-4 px-lg-5 text-center">
+            <div class="container px-4 px-lg-5">
+              <p class="text-muted small mb-0">Copyright &copy; A song of Ice & Fire <span id="currentYear"></span></p>
+            </div>
+        </div>
+          </footer>
+          <script>
+            document.getElementById('currentYear').textContent = new Date().getFullYear();  // Update the current year automatically
+          </script>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+
+        </body>
+    </html>

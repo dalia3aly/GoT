@@ -1,0 +1,1627 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Jon Snow",
+            "aliases": [
+                "The Bastard of Winterfell",
+                "Lord Snow"
+            ],
+            "titles": [
+                "Lord Commander of the Night's Watch",
+                "King in the North"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/john-snow-1920.jpg?w=1200",
+            "house": "House Stark",
+            "roleInStory": "Jon Snow, the bastard son of Eddard Stark, plays a crucial role in the north's defense against the White Walkers and eventually is revealed to be Aegon Targaryen, rightful heir to the Iron Throne.",
+            "quotes": [
+                "- 'The night is dark and full of terrors, but the fire burns them all away.'",
+                "- 'I'm not a Stark.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "The Wall",
+                "Beyond the Wall",
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Stabbed to death by his own men for being a traitor to the Night's Watch, later resurrected by Melisandre.",
+                "responsible": "Members of the Night's Watch"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Half-Sibling",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Half-Sibling",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Cousin",
+                    "name": "Robb Stark"
+                },
+                {
+                    "relationship": "Aunt",
+                    "name": "Daenerys Targaryen"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Eddard Stark",
+            "aliases": [
+                "Hand of the King",
+                "The Lord of Winterfell",
+                "The Warden of the North"
+            ],
+            "titles": [
+                "Lord of Winterfell",
+                "Warden of the North",
+                "Hand of the King"
+            ],
+            "image": "https://images.cdn.prd.api.discomax.com/2023/02/01/113db234-052e-3d75-aa44-460c6126998f.jpeg?f=jpg&q=75&w=1280&w=1200",
+            "house": "House Stark",
+            "roleInStory": "Eddard Stark, the honorable lord of Winterfell, serves as the Hand of the King to his old friend, King Robert Baratheon. His quest for truth and justice leads to his downfall.",
+            "quotes": [
+                "- 'Winter is coming.'", "- 'I don't fight in tournaments because when I fight a man for real, I don't want him to know what I can do.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "King's Landing"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Executed by beheading on the order of King Joffrey Baratheon.",
+                "responsible": "Joffrey Baratheon"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Wife",
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Robb Stark"
+                },
+                {
+                    "relationship": "Daughter",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Daughter",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Bran Stark"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Rickon Stark"
+                },
+                {
+                    "relationship": "Ward (regarded as a son)",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Daenerys Targaryen",
+            "aliases": [
+                "Khaleesi",
+                "Mother of Dragons"
+            ],
+            "titles": [
+                "Queen of Meereen",
+                "Khaleesi of the Great Grass Sea",
+                "Breaker of Chains"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/daenarys-1920.jpg?w=1200",
+            "house": "House Targaryen",
+            "roleInStory": "Daenerys Targaryen, the last surviving member of House Targaryen, seeks to reclaim the Iron Throne and free the people of Slaver's Bay.",
+            "quotes": [
+                "- 'I will take what is mine with fire and blood.'",
+                "- 'I am the blood of the dragon.'"
+            ],
+            "placesVisited": [
+                "Pentos",
+                "Vaes Dothrak",
+                "Qarth",
+                "Astapor",
+                "Yunkai",
+                "Meereen",
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Stabbed to death by Jon Snow after destroying King's Landing.",
+                "responsible": "Jon Snow"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Brother",
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "relationship": "Nephew",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Cersei Lannister",
+            "aliases": [
+                "The Queen Regent",
+                "The Queen Mother"
+            ],
+            "titles": [
+                "Queen of the Seven Kingdoms",
+                "Lady of Casterly Rock"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/cersei-lannister-1920.jpg?w=1200",
+            "house": "House Lannister",
+            "roleInStory": "Cersei Lannister, the cunning and ruthless queen regent, seeks to maintain power for herself and her family at any cost.",
+            "quotes": [
+                "- 'When you play the game of thrones, you win or you die.'", "- 'The more people you love, the weaker you are.'"
+            ],
+            "placesVisited": [
+                "King's Landing"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Crushed by falling debris during the destruction of King's Landing.",
+                "responsible": "Daenerys Targaryen"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Brother",
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Joffrey Baratheon"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Myrcella Baratheon"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Tyrion Lannister",
+            "aliases": [
+                "The Imp",
+                "The Halfman"
+            ],
+            "titles": [
+                "Hand of the King",
+                "Master of Coin",
+                "Lord of Casterly Rock"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/tyrion-lannister-1920.jpg?w=1200",
+            "house": "House Lannister",
+            "roleInStory": "Tyrion Lannister, the clever and witty dwarf, seeks to prove his worth and find his place in a world that often underestimates him.",
+            "quotes": [
+                "- 'I drink and I know things.'", "- 'I have a tender spot in my heart for cripples, bastards, and broken things.'"
+            ],
+            "placesVisited": [
+                "King's Landing",
+                "The Wall",
+                "Essos",
+                "Meereen",
+                "Dragonstone"
+            ],
+            "death": {
+                "status": "Alive",
+                "details": "N/A",
+                "responsible": "N/A"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Brother",
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Arya Stark",
+            "aliases": [
+                "Arry",
+                "No One"
+            ],
+            "titles": [
+                "The Night King Slayer"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/arya-stark-1920.jpg?w=1200",
+            "house": "House Stark",
+            "roleInStory": "Arya Stark, the youngest daughter of Eddard Stark, is known for her fierce spirit and skills in combat. After escaping the capital, she embarks on a journey of survival and revenge, eventually becoming a skilled assassin.",
+            "quotes": [
+                "- 'A girl has no name.'",
+                "- 'I can't sleep until I say the names of the ones I'm going to kill.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "King's Landing",
+                "The Riverlands",
+                "Braavos",
+                "The Twins",
+                "Winterfell (again)"
+            ],
+            "death": {
+                "status": "Alive"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Eddard Stark"
+                },
+                {
+                    "relationship": "Mother",
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Robb Stark"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Bran Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Rickon Stark"
+                },
+                {
+                    "relationship": "Half-Brother (regarded as brother)",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+
+        },
+        {
+            "id": 7,
+            "name": "Sansa Stark",
+            "aliases": [
+                "Little Bird",
+                "Alayne Stone"
+            ],
+            "titles": [
+                "Lady of Winterfell",
+                "Queen in the North"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/sansa-stark-1920.jpg?w=1200",
+            "house": "House Stark",
+            "roleInStory": "Sansa Stark, the eldest daughter of Eddard Stark, begins as a naive and innocent",
+            "quotes": [
+                "- 'I am Sansa Stark of Winterfell. This is my home. And you can't frighten me.'", "- 'Without Littlefinger and Ramsay and the rest, I would have stayed a little bird all my life.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "King's Landing",
+                "The Vale",
+                "Winterfell (again)"
+            ],
+            "death": {
+                "status": "Alive"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Eddard Stark"
+                },
+                {
+                    "relationship": "Mother",
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Robb Stark"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Bran Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Rickon Stark"
+                },
+                {
+                    "relationship": "Half-Brother (regarded as brother)",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Bran Stark",
+            "aliases": [
+                "The Three-Eyed Raven"
+            ],
+            "titles": [
+                "Lord of Winterfell"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/bran-stark-1920.jpg?w=1200",
+            "house": "House Stark",
+            "roleInStory": "Bran Stark, the second son of Eddard Stark, is a warg and greenseer who becomes the Three-Eyed Raven, with the ability to see into the past, present, and future.",
+            "quotes": [
+                "- 'I'm not really Bran Stark anymore. I'm the Three-Eyed Raven.'", "- 'The past is already written. The ink is dry.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "Beyond the Wall",
+                "The Wall",
+                "The Cave of the Three-Eyed Raven",
+                "Winterfell (again)"
+            ],
+            "death": {
+                "status": "Alive"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Eddard Stark"
+                },
+                {
+                    "relationship": "Mother",
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Robb Stark"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Rickon Stark"
+                },
+                {
+                    "relationship": "Half-Brother (regarded as brother)",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Robb Stark",
+            "aliases": [
+                "The Young Wolf"
+            ],
+            "titles": [
+                "King in the North"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/robert-stark-1920.jpg?w=1200",
+            "house": "House Stark",
+            "roleInStory": "Robb Stark, the eldest son of Eddard Stark, is declared King in the North and leads a rebellion against the Lannisters.",
+            "quotes": [
+                "- 'I have won every battle. Yet I'm losing this war.'", "- 'If we do it your way Kingslayer, you'd win. We're not doing it your way.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "The Twins",
+                "Riverrun"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Killed at the Red Wedding by Roose Bolton and Walder Frey.",
+                "responsible": "Roose Bolton and Walder Frey"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Eddard Stark"
+                },
+                {
+                    "relationship": "Mother",
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Bran Stark"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Rickon Stark"
+                },
+                {
+                    "relationship": "Half-Brother (regarded as brother)",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Jaime Lannister",
+            "aliases": [
+                "The Kingslayer"
+            ],
+            "titles": [
+                "Lord Commander of the Kingsguard"
+            ],
+            "image": "https://images.cdn.prd.api.discomax.com/2023/02/09/73b90a27-2c0f-3a9f-8fac-e39e0fd830e7.jpeg?f=jpg&q=75&w=1280&w=1200",
+            "house": "House Lannister",
+            "roleInStory": "Jaime Lannister, the eldest son of Tywin Lannister, is known for his skill in combat and his complicated relationship with his sister, Cersei.",
+            "quotes": [
+                "- 'The things I do for love.'", "- 'I never cared much for apologies. No one can undo what's been done.'"
+            ],
+            "placesVisited": [
+                "King's Landing",
+                "The Riverlands",
+                "Harrenhal",
+                "Riverrun",
+                "Winterfell",
+                "Dragonstone"
+            ],
+            "death": {
+                "status": "Alive"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Brother",
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Catelyn Stark",
+            "aliases": [
+                "Lady Stark"
+            ],
+            "titles": [
+                "Lady of Winterfell"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/catelyn-stark-1920.jpg?w=1200",
+            "house": ["House Stark", "House Tully"],
+            "roleInStory": "Catelyn Stark, the wife of Eddard Stark, is a devoted mother and protector of her children.",
+            "quotes": [
+                " "
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "King's Landing",
+                "The Riverlands"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Killed at the Red Wedding by Walder Frey.",
+                "responsible": "Walder Frey"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Husband",
+                    "name": "Eddard Stark"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Robb Stark"
+                },
+                {
+                    "relationship": "Daughter",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Daughter",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Bran Stark"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Rickon Stark"
+                },
+                {
+                    "relationship": "Ward (regarded as a son)",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Theon Greyjoy",
+            "aliases": [
+                "Reek"
+            ],
+            "titles": [
+                "Prince of Winterfell"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/theon-greyjoy-1920.jpg?w=1200",
+            "house": "House Greyjoy",
+            "roleInStory": "Theon Greyjoy, the only surviving son of Balon Greyjoy, is taken as a ward by Eddard Stark and struggles with his identity and loyalty.",
+            "quotes": [
+                "- 'My real father lost his head at King's Landing. I made a choice, and I chose wrong.'", "- 'I always wanted to do the right thing. Be the right kind of person. But never knew what that meant.'"
+            ],
+            "placesVisited": [
+                "Winterfell",
+                "Pyke",
+                "Dreadfort",
+                "Moat Cailin",
+                "Winterfell (again)"
+            ],
+            "death": {
+                "status": "Alive"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Balon Greyjoy"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Yara Greyjoy"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Yara Greyjoy",
+            "aliases": [
+                "Asha Greyjoy"
+            ],
+            "titles": [
+                "Queen of the Iron Islands"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/yara-greyjoy-1920.jpg?w=1200",
+            "house": "House Greyjoy",
+            "roleInStory": "Yara Greyjoy, the daughter of Balon Greyjoy, is a fierce and skilled warrior who seeks to prove herself as a leader.",
+            "quotes": [
+                "- 'I'm going to find my little brother, and I'm going to bring him home.'", "- 'I want to build a world where people don't have to be afraid.'"
+            ],
+            "placesVisited": [
+                "Pyke",
+                "Winterfell",
+                "Dreadfort",
+                "Moat Cailin"
+            ],
+            "death": {
+                "status": "Alive",
+                "details": "N/A",
+                "responsible": "N/A"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Balon Greyjoy"
+                },
+                {
+                    "relationship": "Brother",
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "appearances": [
+                "Season 2",
+                "Season 3",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Jorah Mormont",
+            "aliases": [
+                "Ser Jorah"
+            ],
+            "titles": [
+                "Lord of Bear Island"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/jorah-mormont-1920.jpg?w=1200",
+            "house": "House Mormont",
+            "roleInStory": "Jorah Mormont, the exiled knight, serves as an advisor and protector to Daenerys Targaryen.",
+            "quotes": [
+                "- 'There's a beast in every man, and it stirs when you put a sword in his hand.'", "- 'Khaleesi, you have a gentle heart, but this is how it's always been. I've seen it with my own eyes.'"
+            ],
+            "placesVisited": [
+                "Pentos",
+                "Vaes Dothrak",
+                "Qarth",
+                "Astapor",
+                "Yunkai",
+                "Meereen",
+                "Dragonstone",
+                "King's Landing"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Died of greyscale.",
+                "responsible": "N/A"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Jeor Mormont"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Brienne of Tarth",
+            "aliases": [
+                "The Maid of Tarth"
+            ],
+            "titles": [
+                "Ser"
+            ],
+            "image": "https://images.cdn.prd.api.discomax.com/2023/02/09/40eb7c3c-2f81-3bd5-9825-7e953dca7a6f.jpeg?f=jpg&q=75&w=1280&w=1200",
+            "house": "House Tarth",
+            "roleInStory": "Brienne of Tarth, the skilled warrior, is known for her loyalty and honor. She serves as a protector to the Stark children.",
+            "quotes": [
+                "- 'Should I Fail To Persuade The Blackfish To Surrender And If You Attack The Castle, Honor Compels Me To Fight For Sansa's Kin...To Fight You. Let's Hope It Doesn't Come To That.'", "- 'I'm no lady.'"
+            ],
+            "placesVisited": [
+                "Renly Baratheon's camp",
+                "King's Landing",
+                "The Riverlands",
+                "The Vale",
+                "Riverrun",
+                "Winterfell",
+                "Dragonstone"
+            ],
+            "death": {
+                "status": "Alive",
+                "details": "N/A",
+                "responsible": "N/A"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Selwyn Tarth"
+                },
+                {
+                    "relationship": "Lover",
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "relationship": "Protector",
+                    "name": "Sansa Stark"
+                },
+                {
+                    "relationship": "Protector",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Protector",
+                    "name": "Bran Stark"
+                }
+            ],
+            "appearances": [
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Petyr Baelish",
+            "aliases": [
+                "Littlefinger"
+            ],
+            "titles": [
+                "Lord of Harrenhal",
+                "Master of Coin"
+            ],
+            "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/petyr-baelish-1920.jpg?w=1200",
+            "house": "House Baelish",
+            "roleInStory": "Petyr Baelish, the cunning and manipulative lord, seeks to gain power and influence through political maneuvering.",
+            "quotes": [
+                "- 'Chaos isn't a pit. Chaos is a ladder.'", "- 'I did warn you not to trust me.", "- 'So Many Men, They Risk So Little. They Spend Their Lives Avoiding Danger. And Then They Die. I would Risk Everything To Get What I Want.'"
+            ],
+            "placesVisited": [
+                "King's Landing",
+                "The Vale",
+                "Harrenhal"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Executed by Sansa Stark for his crimes.",
+                "responsible": "Sansa Stark"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Wife",
+                    "name": "Lysa Arryn"
+                },
+                {
+                    "relationship": "Ward (regarded as a son)",
+                    "name": "Robin Arryn"
+                },
+                {
+                    "relationship": "Lover",
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "relationship": "Protector",
+                    "name": "Sansa Stark"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Sandor Clegane",
+            "aliases": [
+                "The Hound"
+            ],
+            "titles": [
+                "Ser"
+            ],
+            "image": "https://images.cdn.prd.api.discomax.com/2023/02/09/9e329f90-3571-310b-bfbd-5b32226faa9f.jpeg?f=jpg&q=75&w=1280&w=1200",
+            "house": "House Clegane",
+            "roleInStory": "Sandor Clegane, the fearsome warrior, is known for his brutal nature and his complicated relationship with his brother, Gregor Clegane.",
+            "quotes": [
+                "- 'You know nothing, Jon Snow'", "- 'Hate's as good a thing as any to keep a person going. Better than most.'"
+            ],
+            "placesVisited": [
+                "King's Landing",
+                "The Riverlands",
+                "The Vale",
+                "Harrenhal",
+                "The Twins",
+                "Winterfell",
+                "Dragonstone"
+            ],
+            "death": {
+                "status": "Deceased",
+                "details": "Died from injuries sustained in a fight with his brother, Gregor Clegane.",
+                "responsible": "N/A"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Brother",
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "relationship": "Protector",
+                    "name": "Arya Stark"
+                },
+                {
+                    "relationship": "Protector",
+                    "name": "Sansa Stark"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        
+        {
+            "id": 18,
+            "name": "Samwell Tarly",
+            "aliases": [
+                "Sam"
+            ],
+            "titles": [
+                "Maester-in-training"
+            ],
+            "image": "https://i.pinimg.com/originals/85/07/30/8507305efff9ff5913bf6a28042fa27c.jpg",
+            "house": "House Tarly",
+            "roleInStory": "Samwell Tarly, the timid and bookish member of the Night's Watch. A very self-aware And honest man, seeks to prove himself as a capable and brave warrior.",
+            "quotes": [
+                "- 'Sometimes A Man Has To Make Hard Choices, Choices That Might Look Wrong To Others, But You Know Are Right In The Long Run.'", "- 'I Always Wanted To Be A Wizard!'"
+            ],
+            "placesVisited": [
+                "The Wall",
+                "Beyond the Wall",
+                "Oldtown"
+            ],
+            "death": {
+                "status": "Alive",
+                "details": "N/A",
+                "responsible": "N/A"
+            },
+            "relatedCharacters": [
+                {
+                    "relationship": "Father",
+                    "name": "Randyll Tarly"
+                },
+                {
+                    "relationship": "Mother",
+                    "name": "Melessa Tarly"
+                },
+                {
+                    "relationship": "Sister",
+                    "name": "Talla Tarly"
+                },
+                {
+                    "relationship": "Son",
+                    "name": "Sam"
+                },
+                {
+                    "relationship": "Lover",
+                    "name": "Gilly"
+                },
+                {
+                    "relationship": "Best Friend",
+                    "name": "Jon Snow"
+                }
+            ],
+            "appearances": [
+                "Season 1",
+                "Season 2",
+                "Season 3",
+                "Season 4",
+                "Season 5",
+                "Season 6",
+                "Season 7",
+                "Season 8"
+            ]
+        },
+        {
+            "id": 20,
+        "name": "Joffrey Baratheon",
+        "aliases": [
+            "The King"
+        ],
+        "titles": [
+            "King of the Seven Kingdoms"
+        ],
+        "image": "https://images.cdn.prd.api.discomax.com/2023/02/09/5477d988-7731-31b8-8f41-76cf07192b08.jpeg?f=jpg&q=75&w=1280&w=1200",
+        "house": "House Baratheon",
+        "roleInStory": "Joffrey Baratheon, the cruel and sadistic king, is known for his violent and impulsive nature.",
+        "quotes": [
+            "- 'I'm going to give you a present. After I raise my armies and kill your traitor brother, I'm going to give you his head as well.'", "- 'Everyone is mine to torment.'"
+        ],
+        "placesVisited": [
+            "King's Landing"
+        ],
+        "death": {
+            "status": "Deceased",
+            "details": "Poisoned at his own wedding.",
+            "responsible": "Olenna Tyrell"
+        },
+        "relatedCharacters": [
+            {
+                "relationship": "Mother",
+                "name": "Cersei Lannister"
+            },
+            {
+                "relationship": "Father",
+                "name": "Jaime Lannister"
+            }
+        ],
+        "appearances": [
+            "Season 1",
+            "Season 2",
+            "Season 3",
+            "Season 4"
+        ]
+    },
+    {
+        "id": 21,
+
+        "name": "Margaery Tyrell",
+        "aliases": [
+            "The Queen"
+        ],
+        "titles": [
+            "Queen of the Seven Kingdoms", "Queen consort"
+        ],
+        "image": "https://i.pinimg.com/originals/62/87/00/6287005a3c2b67dbc4276b8a97522c01.jpg",
+        "house": "House Tyrell",
+        "roleInStory": "Margaery Tyrell, the beautiful and cunning queen, seeks to maintain power and influence in the royal court.",
+        "quotes": [
+            " "
+        ],
+        "placesVisited": [
+            "King's Landing"
+        ],
+        "death": {
+            "status": "Deceased",
+            "details": "Killed in the destruction of the Great Sept of Baelor.",
+            "responsible": "Cersei Lannister"
+        },
+        "relatedCharacters": [
+            {
+                "relationship": "Father",
+                "name": "Mace Tyrell"
+            },
+            {
+                "relationship": "Grandmother",
+                "name": "Olenna Tyrell"
+            }
+        ],
+        "appearances": [
+            "Season 2",
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Oberyn Martell",
+        "aliases": [
+            "The Red Viper"
+        ],
+        "titles": [
+            "Prince of Dorne"
+        ],
+        "image": "https://variety.com/wp-content/uploads/2020/10/pedro-pascal-game-of-thrones.jpg?w=1000",
+        "house": "House Martell",
+        "roleInStory": "Oberyn Martell, the charismatic and skilled warrior, seeks to avenge his sister's death and protect his family's honor.",
+        "quotes": [
+            " "
+        ],
+        "placesVisited": [
+            "King's Landing",
+            "Dorne",
+            "The Vale"
+        ],
+        "death": {
+            "status": "Deceased",
+            "details": "Killed in a trial by combat by Gregor Clegane.",
+            "responsible": "Gregor Clegane"
+        },
+        "relatedCharacters": [
+            {
+                "relationship": "Sister",
+                "name": "Elia Martell"
+            },
+            {
+                "relationship": "Nephew",
+                "name": "Trystane Martell"
+            }
+        ],
+        "appearances": [
+            "Season 4"
+        ]
+    },
+    {
+    "id": 23,
+    "name": "Lysa Arryn",
+    "aliases": [
+        "The Lady of the Vale"
+    ],
+    "titles": [
+        "Lady of the Eyrie"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/lysa-arryn-1920.jpg?w=1200",
+    "house": [
+        "House Arryn", "House Tully"
+    ],
+    "roleInStory": "Catelyn Stark's younger sister and the widow of Jon Arryn, the Hand of the King. She is known for her overprotective nature and her love for her son, Robin Arryn.",
+    "quotes": [
+        "- 'It's all right. It will be all right. You'll be a widow soon. They'll execute that dwarf for murdering the king, and you'll be free to marry Robin! You'll be the Lady of the Vale. Hmm?'", "- 'I lied for you! I killed for you! Why did you bring her here? Why?!'"
+    ],
+    "placesVisited": [
+        "The Vale"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Pushed through the Moon Door by Petyr Baelish.",
+        "responsible": "Petyr Baelish"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "First Husband",
+            "name": "Jon Arryn"
+        },
+        {
+            "relationship": "Son",
+            "name": "Robin Arryn"
+        },
+        {
+            "relationship": "Second Husband",
+            "name": "Petyr Baelish"
+        },
+        {
+            "relationship": "Sister",
+            "name": "Catelyn Stark"
+        }
+    ],
+    "appearances": [
+        "Season 1",
+        "Season 4"
+    ]
+    },
+    {
+        "id": 24,
+        "name": "Ramsay Bolton",
+        "aliases": [
+            "The Bastard of Bolton"
+        ],
+        "titles": [
+            "Lord of Winterfell"
+        ],
+        "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/ramsay-1920.jpg?w=1200",
+        "house": "House Bolton",
+        "roleInStory": "Ramsay Bolton, the sadistic and cruel lord, seeks to maintain power and control through fear and violence.",
+        "quotes": [
+            "- 'If you think this has a happy ending, you haven't been paying attention.'", "- 'I am Lord Bolton. I am your Warden. I am the closest thing to a father you have left.'"
+        ],
+        "placesVisited": [
+            "Winterfell",
+            "The Dreadfort"
+        ],
+        "death": {
+            "status": "Deceased",
+            "details": "Eaten alive by his own hounds.",
+            "responsible": "Sansa Stark"
+        },
+        "relatedCharacters": [
+            {
+                "relationship": "Father",
+                "name": "Roose Bolton"
+            },
+            {
+                "relationship": "Mother",
+                "name": "Walda Bolton"
+            },
+            {
+                "relationship": "Half-Brother",
+                "name": "Ramsay's unnamed half-brother"
+            }
+        ],
+        "appearances": [
+            "Season 3",
+            "Season 4",
+            "Season 5",
+            "Season 6"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Roose Bolton",
+        "aliases": [
+            "The Leech Lord"
+        ],
+        "titles": [
+            "Lord of the Dreadfort"
+        ],
+        "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/roose-bolton-1920.jpg?w=1200",
+        "house": "House Bolton",
+        "roleInStory": "Roose Bolton, the cold and calculating lord, seeks to maintain power and control through political maneuvering and manipulation.",
+        "quotes": [
+            "The Lannisters send their regards."
+    ],
+    "placesVisited": [
+        "Winterfell",
+        "The Dreadfort"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Stabbed by his own son, Ramsay Bolton.",
+        "responsible": "Ramsay Bolton"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Son",
+            "name": "Ramsay Bolton"
+        },
+        {
+            "relationship": "Wife",
+            "name": "Walda Bolton"
+        },
+        {
+            "relationship": "Son",
+            "name": "Ramsay's unnamed half-brother"
+        }
+    ],
+    "appearances": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6"
+    ]
+},
+{
+    "id": 27,
+    "name": "Olenna Tyrell",
+    "aliases": [
+        "The Queen of Thorns"
+    ],
+    "titles": [
+        "Lady of Highgarden"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/olenna-tyrell-1920.jpg?w=1200",
+    "house": "House Tyrell",
+    "roleInStory": "Olenna Tyrell, the sharp-witted and cunning matriarch, seeks to maintain power and influence through political maneuvering and manipulation.",
+    "quotes": [
+        "- 'I wonder if you're the worst person I've ever met.'", "- 'I'd hate to die like your son. Clawing at my neck, foam and bile spilling from my mouth, eyes blood red, skin purple. Must have been horrible for you, as a Kingsguard, as a father. It was horrible enough for me. A shocking scene. Not at all what I intended. You see, I'd never seen the poison work before. Tell Cersei. I want her to know it was me.'"
+    ],
+    "placesVisited": [
+        "King's Landing",
+        "Highgarden"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Poisoned by Jaime Lannister.",
+        "responsible": "Jaime Lannister"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Son",
+            "name": "Mace Tyrell"
+        },
+        {
+            "relationship": "Granddaughter",
+            "name": "Margaery Tyrell"
+        }
+    ],
+    "appearances": [
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7"
+    ]
+},
+{
+    "id": 28,
+    "name": "Stannis Baratheon",
+    "aliases": [
+        "The King"
+    ],
+    "titles": [
+        "King of the Seven Kingdoms"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/stannis-1920.jpg?w=1200",
+    "house": "House Baratheon",
+    "roleInStory": "Stannis Baratheon, the stern and determined king, seeks to claim the Iron Throne and restore his family's honor.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "Dragonstone",
+        "Storm's End",
+        "The Wall",
+        "Winterfell"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Killed by Brienne of Tarth.",
+        "responsible": "Brienne of Tarth"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Brother",
+            "name": "Robert Baratheon"
+        },
+        {
+            "relationship": "Brother",
+            "name": "Renly Baratheon"
+        },
+        {
+            "relationship": "Daughter",
+            "name": "Shireen Baratheon"
+        }
+    ],
+    "appearances": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5"
+    ]
+},
+{
+    "id": 29,
+    "name": "Khal Drogo",
+    "aliases": [
+        "The Great Khal"
+    ],
+    "titles": [
+        "Khal"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/khal-drogo-1920.jpg?w=1200",
+    "house": "Dothraki",
+    "roleInStory": "Khal Drogo, the fierce and powerful leader of the Dothraki, seeks to conquer and expand his empire.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "Pentos",
+        "Vaes Dothrak"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Succumbed to an infected wound.",
+        "responsible": "N/A"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Wife",
+            "name": "Daenerys Targaryen"
+        },
+        {
+            "relationship": "Son",
+            "name": "Rhaego"
+        }
+    ],
+    "appearances": [
+        "Season 1"
+
+    ]    
+},
+{
+    "id": 30,
+    "name": "Melisandre of Asshai",
+    "aliases": [
+        "The red Woman", "The Red Priestess"],
+    "titles": [
+        "Priestess of R'hllor"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/melisandre-1920.jpg?w=1200",
+    "house": "N/A",
+    "roleInStory": "Melisandre of Asshai, the enigmatic and powerful priestess, seeks to fulfill her religious prophecies and serve the Lord of Light.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "Dragonstone",
+        "The Wall",
+        "Winterfell"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Died of old age.",
+        "responsible": "N/A"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Lover",
+            "name": "Stannis Baratheon"
+        }
+    ],
+    "appearances": [
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+    ]
+},
+{
+    "id": 31,
+    "name": "The Stranger",
+    "aliases": [
+        "The God of Death"
+    ],
+    "titles": [
+        "The Faceless God"
+    ],
+    "image": "https://i.pinimg.com/originals/db/2d/22/db2d22944574ca774d08fbcc533b5de1.jpg",
+    "house": "N/A",
+    "roleInStory": "The Stranger, the enigmatic and mysterious god, is one of the seven gods of the Faith of the Seven.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "Winterfell", "King's Landing", "Braavos", "The House of Black and White"
+    ],
+    "death": {
+        "status": "N/A",
+        "details": "N/A",
+        "responsible": "N/A"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Protector",
+            "name": "Arya Stark"
+        }
+
+    ],
+    "appearances": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+    ]
+},
+{
+    "id": 32,
+    "name": "Varys",
+    "aliases": [
+        "The Spider"
+    ],
+    "titles": [
+        "Master of Whisperers"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/maetser-varys-1920.jpg?w=1200",
+    "house": "N/A",
+    "roleInStory": "Varys, the cunning and enigmatic spymaster, seeks to maintain power and influence through political maneuvering and manipulation. A eunuch and a member of the Small Council. A master of disguise, he along with Littlefinger are always aware of what goes on in Court.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "King's Landing",
+        "Meereen"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Executed by Daenerys Targaryen.",
+        "responsible": "Daenerys Targaryen"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Protector",
+            "name": "Daenerys Targaryen"
+        },
+        {
+            "relationship": "Protector",
+            "name": "Tyrion Lannister"
+        }
+    ],
+    "appearances": [
+        "Season 1",
+        "Season 2",
+        "Season 3",
+        "Season 4",
+        "Season 5",
+        "Season 6",
+        "Season 7",
+        "Season 8"
+    ]
+},
+{
+    "id": 33,
+    "name": "Robert Baratheon",
+    "aliases": [
+        "The Usurper"
+    ],
+    "titles": [
+        "King of the Seven Kingdoms"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/robert-baratheon-1920.jpg?w=1200",
+    "house": "House Baratheon",
+    "roleInStory": "King of the Seven Kingdoms of Westeros and longtime friend of Ned Stark. Robert was engaged to Ned's sister, Lyanna, whose abduction by Prince Rhaegar Targaryen incited Robert's uprising against the throne. When Lyanna died during the war, Robert married Cersei Lannister.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "King's Landing"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Killed by a boar.",
+        "responsible": "N/A"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Wife",
+            "name": "Cersei Lannister"
+        },
+        {
+            "relationship": "Son",
+            "name": "Joffrey Baratheon"
+        },
+        {
+            "relationship": "Son",
+            "name": "Tommen Baratheon"
+        },
+        {
+            "relationship": "Son",
+            "name": "Myrcella Baratheon"
+        }
+    ],
+    "appearances": [
+        "Season 1"
+    ]
+},
+{
+    "id": 34,
+    "name": "Renly Baratheon",
+    "aliases": [
+        "The King"
+    ],
+    "titles": [
+        "King of the Seven Kingdoms"
+    ],
+    "image": "https://static.hbo.com/content/dam/hbodata/series/game-of-thrones/character/s5/renly-baratheon-1920.jpg?w=1200",
+    "house": "House Baratheon",
+    "roleInStory": "Renly Baratheon, the charismatic and ambitious king, seeks to claim the Iron Throne and restore his family's honor.",
+    "quotes": [
+        " "
+    ],
+    "placesVisited": [
+        "King's Landing"
+    ],
+    "death": {
+        "status": "Deceased",
+        "details": "Killed by a shadow assassin.",
+        "responsible": "Stannis Baratheon"
+    },
+    "relatedCharacters": [
+        {
+            "relationship": "Brother",
+            "name": "Robert Baratheon"
+        },
+        {
+            "relationship": "Brother",
+            "name": "Stannis Baratheon"
+        }
+    ],
+    "appearances": [
+        "Season 1",
+        "Season 2"
+    ]
+}
+    ]
+}

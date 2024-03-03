@@ -1,0 +1,244 @@
+{
+    "houses": [
+        {
+            "id": 1,
+            "name": "House Targaryen",
+            "sigil": "assets/img/houses/sigils/Targaryen.png",
+            "image": "assets/img/houses/targaryen.png",
+            "coatOfArms": "A red three-headed dragon, on a black field",
+            "words": "Fire and Blood",
+            "notableCharacters": [
+                "Aegon I Targaryen",
+                "Daenerys Targaryen",
+                "Viserys Targaryen"
+            ],
+            "seat": "Dragonstone",
+            "region": "Crownlands",
+            "overlords": "None",
+            "vassals": [
+                "House Velaryon",
+                "House Celtigar"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "Before Aegon's Conquest"
+        },
+
+        {
+            "id": 2,
+            "name": "House Stark",
+            "image": "assets/img/houses/stark.png",
+            "sigil": "assets/img/houses/sigils/Stark.png",
+            "coatOfArms": "A running grey direwolf, on an ice-white field",
+            "words": "Winter is Coming",
+            "notableCharacters": [
+                "Eddard Stark",
+                "Robb Stark",
+                "Jon Snow",
+                "Sansa Stark",
+                "Arya Stark",
+                "Bran Stark",
+                "Rickon Stark"
+            ],
+            "seat": "Winterfell",
+            "region": "North",
+            "overlords": "House Baratheon of King's Landing",
+            "vassals": [
+                "House Bolton",
+                "House Karstark",
+                "House Mormont"
+            ],
+            "religion": "Old Gods of the Forest",
+            "founded": "Age of Heroes"
+        },
+
+        {
+            "id": 3,
+            "name": "House Lannister",
+            "image": "assets/img/houses/lannister.png",
+            "sigil": "assets/img/houses/sigils/Lannister.png",
+            "coatOfArms": "A golden lion on a crimson field",
+            "words": "Hear Me Roar!",
+            "notableCharacters": [
+                "Tywin Lannister",
+                "Jaime Lannister",
+                "Cersei Lannister",
+                "Tyrion Lannister"
+            ],
+            "seat": "Casterly Rock",
+            "region": "Westerlands",
+            "overlords": "House Baratheon",
+            "vassals": [
+                "House Clegane",
+                "House Payne"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "Age of Heroes"
+        },
+
+        {
+            "id": 4,
+            "name": "House Baratheon",
+            "image": "assets/img/houses/baratheon.png",
+            "sigil": "assets/img/houses/sigils/Baratheon.png",
+            "coatOfArms": "A crowned black stag on a gold field",
+            "words": "Ours is the Fury",
+            "notableCharacters": [
+                "Robert Baratheon",
+                "Stannis Baratheon",
+                "Renly Baratheon"
+            ],
+            "seat": "Storm's End",
+            "region": "Stormlands",
+            "overlords": "None, formerly House Targaryen",
+            "vassals": [
+                "House Tarth",
+                "House Swann"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "After the Conquest"
+        },
+
+        {
+            "id": 5,
+            "name": "House Greyjoy",
+            "image": "assets/img/houses/greyjoy.png",
+            "sigil": "assets/img/houses/sigils/Greyjoy.png",
+            "coatOfArms": "A golden kraken on a black field",
+            "words": "We Do Not Sow",
+            "notableCharacters": [
+                "Balon Greyjoy",
+                "Theon Greyjoy",
+                "Yara Greyjoy",
+                "Euron Greyjoy",
+                "Aeron Greyjoy"
+            ],
+            "seat": "Pyke",
+            "region": "Iron Islands",
+            "overlords": "House Baratheon",
+            "vassals": [
+                "House Harlaw",
+                "House Blacktyde"
+            ],
+            "religion": "Drowned God",
+            "founded": "Age of Heroes"
+        },
+
+        {
+            "id": 6,
+            "name": "House Tyrell",
+            "image": "assets/img/houses/tyrell.png",
+            "sigil": "assets/img/houses/sigils/Tyrell.png",
+            "coatOfArms": "A golden rose on a green field",
+            "words": "Growing Strong",
+            "notableCharacters": [
+                "Margaery Tyrell",
+                "Olenna Tyrell",
+                "Mace Tyrell",
+                "Loras Tyrell"
+            ],
+            "seat": "Highgarden",
+            "region": "Reach",
+            "overlords": "House Baratheon",
+            "vassals": [
+                "House Hightower",
+                "House Tarly"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "Age of Heroes"
+        },
+
+        {
+            "id": 7,
+            "name": "House Martell",
+            "image": "assets/img/houses/martell.png",
+            "sigil": "assets/img/houses/sigils/Martell.png",
+            "coatOfArms": "A red sun pierced by a gold spear on an orange field",
+            "words": "Unbowed, Unbent, Unbroken",
+            "notableCharacters": [
+                "Doran Martell",
+                "Oberyn Martell",
+                "Elia Martell",
+                "Arianne Martell"
+            ],
+            "seat": "Sunspear",
+            "region": "Dorne",
+            "overlords": "House Baratheon",
+            "vassals": [
+                "House Dayne",
+                "House Uller"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "Nymeria's War"
+        },
+
+        {
+            "id": 8,
+            "name": "House Arryn",
+            "image": "assets/img/houses/arryn.png",
+            "sigil": "assets/img/houses/sigils/Arryn.png",
+            "coatOfArms": "A white falcon and crescent moon on a blue field",
+            "words": "As High as Honor",
+            "notableCharacters": [
+                "Jon Arryn",
+                "Lysa Arryn",
+                "Robin Arryn"
+            ],
+            "seat": "The Eyrie",
+            "region": "Vale",
+            "overlords": "House Baratheon",
+            "vassals": [
+                "House Corbray",
+                "House Royce"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "Age of Heroes"
+        },
+
+        {
+            "id": 9,
+            "name": "House Tully",
+            "image": "assets/img/houses/tully.png",
+            "sigil": "assets/img/houses/sigils/Tully.png",
+            "coatOfArms": "A silver trout leaping on a blue and red striped field",
+            "words": "Family, Duty, Honor",
+            "notableCharacters": [
+                "Hoster Tully",
+                "Catelyn Stark",
+                "Lysa Arryn",
+                "Edmure Tully"
+            ],
+            "seat": "Riverrun",
+            "region": "Riverlands",
+            "overlords": "House Baratheon",
+            "vassals": [
+                "House Frey",
+                "House Mallister"
+            ],
+            "religion": "Faith of the Seven",
+            "founded": "Age of Heroes"
+        },
+        
+        {
+            "id": 10,
+            "name": "House Bolton",
+            "image": "assets/img/houses/bolton.png",
+            "sigil": "assets/img/houses/sigils/Bolton.png",
+            "coatOfArms": "Black, a red flayed man hanging upside-down on a white X-shaped cross",
+            "words": "Our Blades Are Sharp",
+            "notableCharacters": [
+                "Roose Bolton",
+                "Ramsay Bolton"
+            ],
+            "seat": "Dreadfort",
+            "region": "North",
+            "overlords": 
+                "House Baratheon - House Stark",
+            "vassals": [
+                "House Karstark",
+                "House Umber"
+            ],
+            "religion": "Old Gods of the Forest",
+            "founded": "Age of Heroes"
+        }
+    ]
+}
