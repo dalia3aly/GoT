@@ -119,7 +119,9 @@
                 }" class="img-fluid mb-3" />
             <p><strong>Coat of Arms:</strong> ${house.coatOfArms}</p>
             <p><strong>Words:</strong> ${house.words}</p>
-
+            <p><strong>Notable Characters:</strong> ${house.notableCharacters.join(
+              ", "
+            )}</p>
             <p><strong>Seat:</strong> ${house.seat}</p>
             <p><strong>Region:</strong> ${house.region}</p>
             <p><strong>Overlords:</strong> ${house.overlords}</p>
@@ -157,6 +159,5 @@
       document.getElementById("currentYear").textContent =
         new Date().getFullYear(); // Update the current year automatically
     </script>
-
   </body>
 </html>
